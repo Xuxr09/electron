@@ -1,0 +1,22 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "Electron Study",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xuxr09/electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xuxr09/electron/issues"
+  },
+  "homepage": "https://github.com/Xuxr09/electron#readme",
+  "devDependencies": {
+    "electron": "^24.0.0"
+  }
+}
